@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://1000x1000.github.io
+title: 1000x1000
+tagline: an art project
+description: My awesome new site
+paginate: 5
